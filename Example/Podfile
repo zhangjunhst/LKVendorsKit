@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LKVendors_Tests' do
+  pod 'LKVendors', :path => '../'
+  
+  
+end
