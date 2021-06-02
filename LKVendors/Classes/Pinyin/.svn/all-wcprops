@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 280
+/svn/root/!svn/ver/26751/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin
+END
+PinyinFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 298
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/PinyinFormatter.h
+END
+PinyinFormatter.m
+K 25
+svn:wc:ra_dav:version-url
+V 298
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/PinyinFormatter.m
+END
+NSString+PinYin4Cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 304
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/NSString+PinYin4Cocoa.h
+END
+HanyuPinyinOutputFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 306
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/HanyuPinyinOutputFormat.h
+END
+PinyinHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 295
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/PinyinHelper.h
+END
+NSString+PinYin4Cocoa.m
+K 25
+svn:wc:ra_dav:version-url
+V 304
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/NSString+PinYin4Cocoa.m
+END
+unicode_to_hanyu_pinyin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 308
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/unicode_to_hanyu_pinyin.txt
+END
+HanyuPinyinOutputFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 306
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/HanyuPinyinOutputFormat.m
+END
+PinyinHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 295
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/PinyinHelper.m
+END
+PinYinForObjc.h
+K 25
+svn:wc:ra_dav:version-url
+V 296
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/PinYinForObjc.h
+END
+PinYinForObjc.m
+K 25
+svn:wc:ra_dav:version-url
+V 296
+/svn/root/!svn/ver/26751/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/PinYinForObjc.m
+END
+ChineseToPinyinResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 306
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/ChineseToPinyinResource.h
+END
+ChineseInclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 297
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/ChineseInclude.h
+END
+ChineseToPinyinResource.m
+K 25
+svn:wc:ra_dav:version-url
+V 306
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/ChineseToPinyinResource.m
+END
+ChineseInclude.m
+K 25
+svn:wc:ra_dav:version-url
+V 297
+/svn/root/!svn/ver/23996/%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/04%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/47%20%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A870%E4%BA%A7%E5%93%81/trunk/Project/LiemsMobile70/Vendors/Pinyin/ChineseInclude.m
+END
